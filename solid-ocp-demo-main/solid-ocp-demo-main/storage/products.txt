@@ -1,0 +1,6 @@
+{"id":1,"name":"fone de ouvido","category":"eletronico","basePrice":50}
+{"id":2,"name":"fone de ouvido","category":"eletronico","basePrice":120}
+{"id":3,"name":"pao","category":"l","basePrice":0}
+{"id":4,"name":"arroz","category":"alimento","basePrice":50}
+{"id":5,"name":"pao","category":"alimento","basePrice":20}
+{"id":6,"name":"pao","category":"alimento","basePrice":50}
