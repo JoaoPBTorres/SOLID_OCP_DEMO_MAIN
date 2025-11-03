@@ -1,3 +1,0 @@
-{"id":1,"name":"fone de ouvido","category":"eletronico","basePrice":50}
-{"id":2,"name":"fone de ouvido","category":"eletronico","basePrice":120}
-{"id":3,"name":"pao","category":"l","basePrice":0}
