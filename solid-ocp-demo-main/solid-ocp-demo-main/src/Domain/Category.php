@@ -8,7 +8,6 @@ use App\Domain\CategoryRepository;
 
 final class Category implements CategoryRepository
 {
-    /** @var array<string,float> */
     private array $taxRates;
 
     public function __construct(array $taxRates)
@@ -20,4 +19,5 @@ final class Category implements CategoryRepository
     {
         return $this->taxRates[$category] ?? 0;
     }
+
 }
