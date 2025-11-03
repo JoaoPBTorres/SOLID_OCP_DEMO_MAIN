@@ -21,3 +21,4 @@ final class Category implements CategoryRepository
     }
 
 }
+
